@@ -1,0 +1,1 @@
+CDN 加速地址：https://cdn.jsdelivr.net/gh/yingshiz/s/z.yml
